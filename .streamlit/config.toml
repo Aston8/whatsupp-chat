@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#3b82f6"  # Button color, accent
+backgroundColor = "#f4f6f9"  # Page background
+secondaryBackgroundColor = "#ffffff"  # Sidebar, widgets
+textColor = "#1e293b"  # Headings and body text
+font = "sans serif"
